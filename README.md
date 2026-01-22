@@ -1,7 +1,7 @@
 # About me
 
 
-Hi, I am Kirsten Detweiler. I am a web desginer at FMK Agency. I am based out of Louisiana but am orginally from Pennsylvania. 
+Hi, I am Kirsten Detweiler. I am a web designer at FMK Agency. I am based out of Louisiana but am orginally from Pennsylvania. 
 
 Some things about me are:
 
