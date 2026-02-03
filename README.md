@@ -1,12 +1,12 @@
 # About me
 
 
-Hi, I am Kirsten Detweiler. I am a web designer at FMK Agency. I am based out of Louisiana but am from Pennsylvania. 
+Hi, I am Kirsten Detweiler. I am a web designer at FMK Agency. I am based out of Louisiana but grew up in Pennsylvania. 
 
 Some things about me are:
 
 - 🌱 I’m currently learning how to use Github.
-- 📚 I’m currently reading *People We Meet on Vacation*
+- 📚 I’m currently reading *On a Quiet Street*
 - 💬 Ask me about my dog. 🐶 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have movd 6 times in the last 12 years and lived in 3 different states. 
